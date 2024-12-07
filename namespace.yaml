@@ -6,3 +6,4 @@ metadata:
   labels:
     project: expense-1
     environment: dev
+    validate: false
