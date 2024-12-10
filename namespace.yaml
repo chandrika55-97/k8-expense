@@ -4,6 +4,6 @@ kind: Namespace
 metadata:
   name: expense
   labels:
-    project: expense-1
+    project: expense
     environment: dev
     
